@@ -1,4 +1,7 @@
 # tlpr-documents
 
-- [IRC and Discord Terms of use - Polish](chat-rules-pl.md)
-- [IRC and Discord Terms of use - English](chat-rules-en.md)
+- [IRC and Discord Terms of use - Polish](community/chat-rules/polish.md)
+- [IRC and Discord Terms of use - English](community/chat-rules/english.md)
+
+- [Joining guide - English](collective/joining-procedure/english.md)
+
