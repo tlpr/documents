@@ -5,7 +5,7 @@
 3. Udostępnianie memów w formie obrazów powinno być ograniczone do minimum.
 4. "Ironiczne" żarty oraz memy propagujące nienawiść do innych grup społecznych są zakazane.
 5. Zakaz promowania konkurencji (serwery Discord, kanały IRC, radia internetowe o tej samej tematyce) bez uprzedniej zgody moderacji.
-6. Zakaz używania tzw. "URL shorteners" do udostępniania linków w obawie o bezpieczeństwo i prywatność użytkowników.
+6. Jakakolwiek świadoma próba deanonymizacji naszych użytkowników będzie surowo karana.
 7. Tzw. "spam", czyli masowe wysyłanie niechcianych wiadomości wiąże się z czasową utratą możliwości wysyłania wiadomości.
 8. Wiadomości zawierające (zezwolone w regulaminie) tematy wrażliwe lub wulgaryzmy podlegają obowiązkowi tzw. content warning. Każda taka wiadomość musi zostać oznaczona "CW <krótki opis bez detali, np. polityka>: ||treść||". Ta zasada nie obowiązuje na kanale IRC.
 9. Udostępnianie danych personalnych, wizerunku, prywatnych adresów IP, lokalizacji nienależących do osoby wysyłającej jest surowo zakazane.
@@ -15,4 +15,4 @@
 13. Każdy ukarany użytkownik ma prawo do odwołania się do kary poprzez drogę mailową.
 
 Powyższy regulamin może zostać zmieniony w każdym momencie po uprzednim poinformowaniu użytkowników.
-Ostatnia aktualizacja: Czwartek, 22 sierpień 2019 16:20
+Ostatnia aktualizacja: Środa, 22 sierpień 2019 14:20

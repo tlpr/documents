@@ -5,7 +5,7 @@
 3. Sharing images containing "memes" should be limited as much as possible.
 4. "Ironic" jokes and memes promoting hate speech are prohibited.
 5. You may promote Discord servers, IRC channels, internet radio's with the same subject only with moderators allowance.
-6. Do not use "URL shorteners" due to their unsecure nature.
+6. Any conscious attempt of deanonymization of our users is being herebly punished.
 7. Spam, or mass sending of unwanted messages will result in a temporary mute.
 8. Messages containing sensitive subjects (allowed in the terms of use) or vulgarisms are required to be hidden under the content warning: "CW <short description without details, eg. politics>: ||content||". This rule does not apply on the IRC channel.
 9. Sharing personal data, images, private IP addresses and location not belonging to the sending person is prohibited.
@@ -15,4 +15,5 @@
 13. Each user that has been punished has the right to appeal to the given penalty via e-mail.
 
 The above terms of service may be a subject to change at any time after informing the users.
-Last update: Thursday, 23 August 2019 20:30, Europe/Warsaw time zone
+Last update: Wednesday, 23 August 2019 14:20, Europe/Warsaw time zone
+
